@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jhall72
+- 👀 I’m interested in game modding and C# development
+- 🌱 I’m currently learning asp.net
+- 📫 You can reach me at mr.johnalexhall@gmail.com
